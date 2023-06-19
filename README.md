@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=yoonhok524&show_icons=true&theme=radical&count_private=true">
+
 <a href="https://opgc.me/#/users/yoonhok524" target="_blank"><img src="https://api.opgc.me/githubs/users/yoonhok524/tag/?theme=basic" /></a>
 
 <!--
